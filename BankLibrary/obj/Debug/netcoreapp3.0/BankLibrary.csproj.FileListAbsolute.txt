@@ -1,0 +1,16 @@
+C:\Users\rchio\Desktop\Projects C#\BankApplication\BankLibrary\obj\Debug\netcoreapp3.0\BankLibrary.csprojAssemblyReference.cache
+C:\Users\rchio\Desktop\Projects C#\BankApplication\BankLibrary\obj\Debug\netcoreapp3.0\BankLibrary.AssemblyInfoInputs.cache
+C:\Users\rchio\Desktop\Projects C#\BankApplication\BankLibrary\obj\Debug\netcoreapp3.0\BankLibrary.AssemblyInfo.cs
+C:\Users\rchio\Desktop\Projects C#\BankApplication\BankLibrary\bin\Debug\netcoreapp3.0\BankLibrary.deps.json
+C:\Users\rchio\Desktop\Projects C#\BankApplication\BankLibrary\bin\Debug\netcoreapp3.0\BankLibrary.dll
+C:\Users\rchio\Desktop\Projects C#\BankApplication\BankLibrary\bin\Debug\netcoreapp3.0\BankLibrary.pdb
+C:\Users\rchio\Desktop\Projects C#\BankApplication\BankLibrary\obj\Debug\netcoreapp3.0\BankLibrary.dll
+C:\Users\rchio\Desktop\Projects C#\BankApplication\BankLibrary\obj\Debug\netcoreapp3.0\BankLibrary.pdb
+C:\Users\roman\Desktop\Coding\Projects C#\BankApplication\BankLibrary\bin\Debug\netcoreapp3.0\BankLibrary.deps.json
+C:\Users\roman\Desktop\Coding\Projects C#\BankApplication\BankLibrary\bin\Debug\netcoreapp3.0\BankLibrary.dll
+C:\Users\roman\Desktop\Coding\Projects C#\BankApplication\BankLibrary\bin\Debug\netcoreapp3.0\BankLibrary.pdb
+C:\Users\roman\Desktop\Coding\Projects C#\BankApplication\BankLibrary\obj\Debug\netcoreapp3.0\BankLibrary.csprojAssemblyReference.cache
+C:\Users\roman\Desktop\Coding\Projects C#\BankApplication\BankLibrary\obj\Debug\netcoreapp3.0\BankLibrary.AssemblyInfoInputs.cache
+C:\Users\roman\Desktop\Coding\Projects C#\BankApplication\BankLibrary\obj\Debug\netcoreapp3.0\BankLibrary.AssemblyInfo.cs
+C:\Users\roman\Desktop\Coding\Projects C#\BankApplication\BankLibrary\obj\Debug\netcoreapp3.0\BankLibrary.dll
+C:\Users\roman\Desktop\Coding\Projects C#\BankApplication\BankLibrary\obj\Debug\netcoreapp3.0\BankLibrary.pdb
